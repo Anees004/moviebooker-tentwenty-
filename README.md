@@ -10,6 +10,11 @@
   - Display categories of movies
   - Book tickets with seat selection
 
+## Demo
+
+- **APK and Video**: You can find the APK and demo video in the APK_DEMO folder of this repository.
+- **Demo Video**: [[Watch the demo video here](https://github.com/Anees004/moviebooker-tentwenty-/blob/main/APK_DEMO/video/Screen%20Recording%202025-03-17%20at%2012.12.39%E2%80%AFAM.mov)](link_to_your_demo_video).
+
 ## Installation
 
 1. **Clone the repository**:
